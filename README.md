@@ -1,5 +1,5 @@
 
-[![](https://github-readme-stats.vercel.app/api/wakatime?username=pandaind)]
+<!-- [](https://github-readme-stats.vercel.app/api/wakatime?username=pandaind)] -->
 
 
 <!--
