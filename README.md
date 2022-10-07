@@ -92,7 +92,7 @@ GitIgnore file   12 mins         ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pandaind&show_icons=true&locale=en&layout=compact" alt="pandaind" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pandaind&" alt="pandaind" /></p>
-<!--<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pandaind&show_icons=true&locale=en" alt="pandaind" /></p>-->
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pandaind&show_icons=true&locale=en" alt="pandaind" /></p>
 
 
 
