@@ -37,6 +37,8 @@
 <a href="https://auth.geeksforgeeks.org/user/github_pandaind" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="github_pandaind" height="30" width="40" /></a>
 </p>
 
+
+<h3 align="left">Wakatime stats:</h3>
 <!--START_SECTION:waka-->
 ```text
 Week: 29 September, 2022 - 06 October, 2022
@@ -90,10 +92,9 @@ GitIgnore file   12 mins         ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pandaind&show_icons=true&locale=en&layout=compact" alt="pandaind" /></p>
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pandaind&" alt="pandaind" /></p>
 <!--<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pandaind&show_icons=true&locale=en" alt="pandaind" /></p>-->
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pandaind&" alt="pandaind" /></p>
 
 
 
