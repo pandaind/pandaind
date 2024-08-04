@@ -50,13 +50,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 26 July 2024 - To: 02 August 2024
+From: 27 July 2024 - To: 03 August 2024
 
-Total Time: 21 mins
+Total Time: 8 mins
 
-Markdown   13 mins         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀   62.32 %
-Java       8 mins          ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   37.46 %
-YAML       0 secs          ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.23 %
+Java   8 mins          ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷   99.40 %
+YAML   0 secs          ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.60 %
 ```
 
 <!--END_SECTION:waka-->
