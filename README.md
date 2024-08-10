@@ -13,7 +13,7 @@
 ---
 -->
 
-## Wakatime Stats:
+## Coding Stats:
 <!--START_SECTION:waka-->
 
 ```txt
