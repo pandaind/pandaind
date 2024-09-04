@@ -1,9 +1,6 @@
 
-<h1 align="center">Hi 👋, I'm Chittaranjan</h1>
-<h3 align="center">A passionate developer</h3>
-<p align="center"><a href="https://pandac.in" target="blank"><img src="https://cdn-icons-png.flaticon.com/512/3536/3536964.png" width="35" height="35"></a></p>
-
----
+<h1 align="center">Hi 👋, I'm Chittaranjan <a href="https://pandac.in" target="blank"><img src="https://cdn-icons-png.flaticon.com/512/3536/3536964.png" width="35" height="35"></a></h1>
+<img src="https://komarev.com/ghpvc/?username=pandaind">
 <!--
 <p align="left">
 <a href="https://twitter.com/_expertpanda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_pandaind" height="30" width="40" /></a>
