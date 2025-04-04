@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Chittaranjan <a href="https://pandac.in" target="blank"><img src="https://cdn-icons-png.flaticon.com/512/3536/3536964.png" width="35" height="35"></a></h1>
+<h1 align="center">Hi 👋, I'm Chittaranjan <a href="https://pandac.in/index.xml" target="blank"><img src="https://cdn-icons-png.flaticon.com/512/3536/3536964.png" width="35" height="35"></a></h1>
 <img src="https://komarev.com/ghpvc/?username=pandaind">
 <!--
 <p align="left">
