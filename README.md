@@ -30,7 +30,14 @@ Java   4 mins          ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="aws" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> 
-
+</p>
+<h4 align="left"> Learning </h4><p align="left"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+<img src="https://rustacean.net/more-crabby-things/rustbook-emotes/ferris.svg" alt="Ferris the Rust crab" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
+<img src="https://img.icons8.com/?size=100&id=yUdJlcKanVbh&format=png&color=ffffff" alt="Next.js" width="40" height="40" />
+<img src="https://img.icons8.com/?id=CIAZz2CYc6Kc&size=100&format=png&color=ffffff" alt="Tailwind CSS" width="40" height="40" />
+</p>
 
 <!--
 <h4 align="left">Backend: </h4><p align="left"> 
