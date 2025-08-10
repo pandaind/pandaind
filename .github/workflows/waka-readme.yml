@@ -25,7 +25,7 @@ jobs:
           COMMIT_MESSAGE: Updated waka-readme graph with new metrics
           TARGET_BRANCH: main
           TARGET_PATH: README.md # optional
-          COMMITTER_NAME: pandaind
-          COMMITTER_EMAIL: 19926216+pandaind@users.noreply.github.com
-          AUTHOR_NAME: pandaind
-          AUTHOR_EMAIL: 19926216+pandaind@users.noreply.github.com
+          # COMMITTER_NAME: pandaind
+          # COMMITTER_EMAIL: 19926216+pandaind@users.noreply.github.com
+          # AUTHOR_NAME: pandaind
+          # AUTHOR_EMAIL: 19926216+pandaind@users.noreply.github.com
